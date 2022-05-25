@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    background-image: url(https://wallpapercave.com/wp/wp7738905.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+
+}
+
+.card {
+    margin: 30px 10px;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 1.7em;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    margin: 0px 0px 5px 0px;
+}
+
+input {
+    font-family: 'Nunito', sans-serif;
+    width: 100%;
+    display: block;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border: 0;
+    border-radius: 5px;
+}
+
+button {
+    font-family: 'Nunito', sans-serif;
+    margin-top: 10px;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(202, 39, 39);
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#resultado {
+    margin-top: 15px;
+    text-align: center;
+}
